@@ -1,0 +1,21 @@
+SQL> select * from HRM;
+USER_NAME                      PASSWORD                              AGE
+------------------------------ ------------------------------ ----------
+ADDRESS
+------------------------------
+Siddhesh                       12345678                               19
+jogeshwari
+
+sameer                         123456                                 19
+marathi
+
+abc                            abc                                    21
+gfdgf
+
+
+USER_NAME                      PASSWORD                              AGE
+------------------------------ ------------------------------ ----------
+ADDRESS
+------------------------------
+sidd7                          159                                    19
+mararthi
